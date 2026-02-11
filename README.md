@@ -1,6 +1,7 @@
 # Hangman Game - JavaScript
 
 Ein klassisches Hangman-spiel, das komplett mit HTML, CSS und JavaScript umgesetzt wurde.
+(Noch nicht fertig programmiert: Local Storage von canvas fehlt. Responsive Design fehlt. Hinweis wurde noch nicht fertig programmiert.)
 
 ## 🚀 Features
 **DOM-Manipulation:** Dynamische Aktualisierung der Anzeige bei Tastatureingaben.
