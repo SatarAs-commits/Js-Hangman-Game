@@ -1,1 +1,17 @@
-# Js-Hangman-Game
+# Hangman Game - JavaScript
+
+Ein klassisches Hangman-spiel, das komplett mit HTML, CSS und JavaScript umgesetzt wurde.
+
+## 🚀 Features
+**DOM-Manipulation:** Dynamische Aktualisierung der Anzeige bei Tastatureingaben.
+**Spiellogik:** Überprüfung von richtigen/falschen Buchstaben und Verwaltung der Versuche.
+
+## 🛠 Technologien
+**HTML** für die Struktur.
+**CSS** für das Styling und die Layout-Gestaltung.
+**JavaScript** für die gesamte Logik (keine externen Bibliotheken).
+
+## 🕹️ So wird gespielt
+1. Öffne die `index.html` in einem belibigen Browser.
+2. Rate die buchstabe des gesuchten Wortes über dein Tastatur.
+3. Versuche das Wort zu lösen, bevor der "Hangman" vollständig gezeichnet ist!
